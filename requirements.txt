@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+easyocr
+opencv-python-headless
+shapely<2.0.0
+Pillow
+numpy

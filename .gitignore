@@ -1,0 +1,17 @@
+# Python temporary files and virtual environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+uploads/
+
+# Node.js dependencies (very important to ignore)
+node_modules/
+build/
+
+# Common secret files
+.env
+
+# IDE and OS files
+.vscode/
+.DS_Store
